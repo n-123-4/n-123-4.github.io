@@ -1,5 +1,5 @@
 function yesClick(){
-  document.getElementById("message").innerText = "Same am sorry ❤️";
+  document.getElementById("message").innerText = "same i love you am sorry ❤️";
 }
 
 function noClick(){
